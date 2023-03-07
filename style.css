@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  line-height: 1.2;
+}
+h1 {
+  color: #fa243c;
+  font-weight: 900;
+}
+h3 {
+  color: #1d1d1f;
+  font-weight: 600;
+  font-style: inherit;
+}
+.blue {
+  color: #06c;
+  font-weight: 600;
+}
+p {
+  color: #6e6e73;
+  font-language-override: inherit;
+  margin: 2px;
+}
